@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/user/project.git",
+    "summary": "Tools for view function composition",
+    "repository": "https://github.com/Fresheyeball/perspective.git",
     "license": "BSD3",
     "source-directories": [
         "."
