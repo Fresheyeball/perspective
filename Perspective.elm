@@ -20,7 +20,6 @@ Function Msg
 -}
 
 import Html exposing (Html)
-import Html.App as Html
 
 
 {-|
